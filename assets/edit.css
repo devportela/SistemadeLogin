@@ -1,0 +1,107 @@
+/* Fonte padrão */
+body {
+    font-family: 'Roboto', sans-serif;
+    background: linear-gradient(135deg, #1e3c72, #2a5298);
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+    color: #fff;
+}
+
+/* Container principal */
+.container {
+    background: #fff;
+    padding: 30px 50px;
+    border-radius: 8px;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    width: 100%;
+    max-width: 500px;
+}
+
+/* Títulos */
+h2 {
+    font-size: 28px;
+    margin-bottom: 20px;
+    color: #333;
+}
+
+/* Mensagem de feedback */
+.mensagem {
+    background-color: #f8d7da;
+    color: #721c24;
+    padding: 10px;
+    border-radius: 5px;
+    margin-bottom: 20px;
+    font-size: 16px;
+}
+
+/* Inputs */
+input[type="text"], input[type="password"] {
+    width: 100%;
+    padding: 12px;
+    margin: 10px 0;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    font-size: 16px;
+    color: #333;
+    background-color: #f9f9f9;
+}
+
+/* Estilo dos botões */
+button {
+    padding: 12px 0;
+    font-size: 18px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    width: 200px;
+    margin: 10px;
+}
+
+/* Botão Salvar */
+.btn-submit {
+    background-color: #2a5298;
+    color: white;
+}
+
+.btn-submit:hover {
+    background-color: #1e3c72;
+}
+
+/* Botão Voltar */
+.btn-voltar {
+    background-color: #e74c3c;
+    color: white;
+}
+
+.btn-voltar:hover {
+    background-color: #c0392b;
+}
+
+/* Link */
+a {
+    text-decoration: none;
+}
+
+/* Responsividade */
+@media (max-width: 480px) {
+    .container {
+        padding: 20px;
+    }
+
+    h2 {
+        font-size: 24px;
+    }
+
+    input[type="text"], input[type="password"] {
+        font-size: 14px;
+    }
+
+    button {
+        width: 100%;
+    }
+}
