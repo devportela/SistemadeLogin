@@ -28,8 +28,6 @@ Este é um **Sistema de Login** simples e funcional, desenvolvido com **PHP**, *
 - **PDO**: Para interagir de forma segura com o banco de dados.
 
 ## Vídeo Demonstrativo 
+![video_sistemaLogin (1) (1)](https://github.com/user-attachments/assets/ee03f5db-7948-4c3e-b247-0a7da092d8e1)
 
-Veja abaixo um vídeo demonstrando como o sistema funciona, desde o **cadastro** até o **login** e a **edição de dados**:
-
-[![Clique para assistir ao vídeo](https://img.youtube.com/vi/SEU_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=SEU_VIDEO_ID)
 
