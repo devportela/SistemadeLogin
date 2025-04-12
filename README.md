@@ -17,7 +17,7 @@ Este é um **Sistema de Login** simples e funcional, desenvolvido com **PHP**, *
    O sistema valida se todos os campos estão preenchidos corretamente durante o cadastro e login, e exibe mensagens de erro quando necessário.
 
 5. **Visualização de Senha** 👁️:  
-   Na página de login e cadastro, há a funcionalidade de mostrar ou esconder a senha com um ícone de "olho". Basta clicar para alternar!
+   Na página de login , há a funcionalidade de mostrar ou esconder a senha com um ícone de "olho". Basta clicar para alternar.
 
 ## Tecnologias Utilizadas 💻
 
